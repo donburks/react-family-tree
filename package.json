@@ -1,6 +1,6 @@
 {
   "name": "react-family-tree",
-  "version": "3.2.0",
+  "version": "1.0.0",
   "description": "React component that renders a family tree",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SanichKotikov/react-family-tree.git"
+    "url": "git+https://github.com/donburks/react-family-tree.git"
   },
   "author": "Sanich Kotikov <sancho@cdrpro.ru> (https://sanichkotikov.github.io)",
   "license": "MIT",
@@ -26,7 +26,7 @@
     "relatives"
   ],
   "bugs": {
-    "url": "https://github.com/SanichKotikov/react-family-tree/issues"
+    "url": "https://github.com/donburks/react-family-tree/issues"
   },
   "peerDependencies": {
     "@types/react": ">=16",
@@ -36,7 +36,7 @@
     "typescript": "4.7.4"
   },
   "dependencies": {
-    "relatives-tree": "3.2.x"
+    "relatives-tree": "git://github.com/donburks/relatives-tree.git"
   },
-  "homepage": "https://github.com/SanichKotikov/react-family-tree"
+  "homepage": "https://github.com/donburks/react-family-tree"
 }
